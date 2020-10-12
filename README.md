@@ -1,2 +1,2 @@
-# Pedestrain-Recognition
-Pedestrain-Recognition
+# Pedestrian-Recognition
+Pedestrian-Recognition
